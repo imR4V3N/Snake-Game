@@ -1,12 +1,14 @@
 # Snake-Game
 
- Le projet "Snake Game" sous Java Swing est une implémentation du célèbre jeu Snake, où le joueur contrôle un serpent qui se déplace à travers un espace de jeu et qui doit mager une pomme pour marquer des points sans heurter les murs ou se mordre la queue.
+ The "Snake Game" project under Java Swing is an implementation of the famous Snake game, where the player controls a snake that moves across a game space and must handle an apple to score points without hitting walls or biting its own head. tail.
 
-Voici une description courte du projet :
+Here is a short description of the project :
 
-1. **Jeu classique du serpent** : Le projet recrée le jeu classique du serpent, où le joueur contrôle la direction du serpent à l'aide des touches fléchées du clavier.
-2. **Interface graphique Swing** : L'interface utilisateur du jeu est développée en utilisant la bibliothèque Java Swing, offrant une expérience utilisateur interactive avec des composants graphiques tels que des fenêtres, des boutons et des panneaux.
-3. **Fonctionnalités du jeu** : Le joueur peut contrôler le serpent pour le faire se déplacer à travers l'espace de jeu. Le serpent grandit lorsqu'il mange une pomme et le joueur marque des points à chaque objet mangé. Le jeu se termine si le serpent heurte les murs ou se mord la queue.
-4. **Gestion des collisions** : Le projet implémente la logique pour détecter les collisions entre le serpent et les murs, ainsi que les collisions entre la tête et le corps du serpent, ce qui entraînerait la fin du jeu.
+1. **Classic snake game** : The project recreates the classic snake game, where the player controls the direction of the snake using the arrow keys on the keyboard.
+2. **Swing GUI** : The game's user interface is developed using the Java Swing library, providing an interactive user experience with graphical components such as windows, buttons and panels.
+3. **Game Features** : The player can control the snake to make it move across the game space. The snake grows when it eats an apple and the player scores points for each item eaten. The game ends if the snake hits the walls or bites its tail.
+4. **Collision handling** : The project implements logic to detect collisions between the snake and walls, as well as collisions between the snake's head and body, which would result in the game ending.
 
-En résumé, le projet "Snake Game" sous Java Swing recrée le jeu classique du serpent avec une interface utilisateur graphique conviviale, offrant une expérience de jeu amusante et divertissante pour les joueurs de tous âges.
+In summary, the "Snake Game" project under Java Swing recreates the classic snake game with a friendly graphical user interface, providing a fun and entertaining gaming experience for players of all ages.
+
+The project was developed on visual studio code using the Java 17 language
